@@ -9,6 +9,8 @@ Tutorials for my lab and classes
 ## 2) Go to Modules drop-down menu
 ![](FHLTTW_01)
 
+img src = <"https://raw.githubusercontent.com/Natalia-Taft/TaftTutorials/main/TutorialImages/FHLTTW_01.png">
+
 ## 3) Drop down to SlicerMorph -> Input and Output -> ImageStacks
 ![](FHLTTW_02)
 
