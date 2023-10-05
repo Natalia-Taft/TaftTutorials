@@ -29,13 +29,14 @@ Tutorials for my lab and classes
 7) Click "Open"
 
 ## 5) Change the spacing of the input file to match your specific file
-![](FHLTTW_04) 
 
 <img src ="https://raw.githubusercontent.com/Natalia-Taft/TaftTutorials/main/TutorialImages/FHLTTW_04.png">
+
 1) Find the three Spacing boxes that read 1000mm
 2) Change spacing from 1000mm to file-specific spacing To do this, convert the um in your file name to mm by dividing by 1000 (35.5 um -> .0355 mm for this file)
 - *Note: The program often won't take the first zero right away, you may have to type .0355 and it will come out .355, and you have to go back and insert the first zero again so it will read .0355*
--  Make sure to copy and paste the correct spacing from the left box into the other two boxes
+-  Make sure to copy and paste the correct spacing from the left box into the other two boxes.
+
 <img src ="https://raw.githubusercontent.com/Natalia-Taft/TaftTutorials/main/TutorialImages/FHLTTW_05.png">
 
 ## 6) Preview Volume
@@ -43,6 +44,7 @@ Tutorials for my lab and classes
 2) Check "output size"...should be megabytes, not gigabytes
 3) Click "Load files" button
 - *Note: Could take a few minutes*
+
 <img src ="https://raw.githubusercontent.com/Natalia-Taft/TaftTutorials/main/TutorialImages/FHLTTW_06.png">
 
 ## 7) Visualize Preview in Volume Rendering
@@ -55,7 +57,8 @@ Tutorials for my lab and classes
 2) Click the "Center View" button, and re-size your volume so you can see it
 3) In the Display menu, choose your Preset. We will almost always be using umCT-Bone8Bit
 4) Adjust the Shift slider a TEENSY bit to make sure you can see the bones clearly, with minimal other stuff.
-5) Click the eye icon next to "Display ROI" so that you can see your ROI in the 3D volume window as well as in the individual slice views
+5) Click the eye icon next to "Display ROI" so that you can see your ROI in the 3D volume window as well as in the individual slice views.
+   
 <img src ="https://raw.githubusercontent.com/Natalia-Taft/TaftTutorials/main/TutorialImages/FHLTTW_08.png">
 
 ## 10) Locate your region of interest and Crop
